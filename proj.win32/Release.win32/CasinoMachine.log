@@ -1,0 +1,4 @@
+﻿D:\Dev\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project '..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj' does not exist.
+  CasinoMachine.vcxproj -> D:\Dev\cocos2d-x-3.17\Project\CasinoMachine\proj.win32\Release.win32\CasinoMachine.exe
+  Performing Custom Build Step
+  Скопировано файлов: 0.

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/Parts">
+        <file alias="back.png">Parts/back.png</file>
+        <file alias="minus.png">Parts/minus.png</file>
+        <file alias="minus_press.png">Parts/minus_press.png</file>
+        <file alias="plus.png">Parts/plus.png</file>
+        <file alias="plus_press.png">Parts/plus_press.png</file>
+        <file alias="reel_shadow.png">Parts/reel_shadow.png</file>
+        <file alias="spin.png">Parts/spin.png</file>
+        <file alias="spin_press.png">Parts/spin_press.png</file>
+    </qresource>
+    <qresource prefix="/Symbols">
+        <file alias="1.png">Symbols/1.png</file>
+        <file alias="2.png">Symbols/2.png</file>
+        <file alias="3.png">Symbols/3.png</file>
+        <file alias="4.png">Symbols/4.png</file>
+        <file alias="5.png">Symbols/5.png</file>
+        <file alias="6.png">Symbols/6.png</file>
+        <file alias="7.png">Symbols/7.png</file>
+        <file alias="8.png">Symbols/8.png</file>
+        <file alias="9.png">Symbols/9.png</file>
+        <file alias="10.png">Symbols/10.png</file>
+    </qresource>
+</RCC>
